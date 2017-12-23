@@ -1,11 +1,22 @@
 
+var stdin = process.openStdin();
 
+stdin.addListener("data", function(d) {
+    // note:  d is an object, and when converted to a string it will
+    // end with a linefeed.  so we (rather crudely) account for that  
+    // with toString() and then trim() 
+    console.log("you entered: [" + 
+        d.toString() + "]");
+  });
+
+
+
+/*
 function PlaceOrder(OrderNumber)
 {
 
 console.log('Order number %s is placed', OrderNumber);
 ProcessOrder(function(){console.log('now processing the order')});
-console.log("Processing order number %s finished", OrderNumber);
 };
 
 function ProcessOrder(callback)
@@ -14,19 +25,7 @@ function ProcessOrder(callback)
 	setTimeout(callback,5000);
 };
 
-function AddNUmbers(a, b)
-{
-	return a + b;
-}
 
-var student= {
-	firstname: 'abdelrahman',
-	SecondName: 'Radwan',
-	Age: 22
-};
-
-console.log(student)
-console.log(AddNUmbers(6, 7))
 
 PlaceOrder(1)
 PlaceOrder(2)
@@ -36,3 +35,4 @@ PlaceOrder(5)
 PlaceOrder(6)
 PlaceOrder(7)
 PlaceOrder(8)
+*/
