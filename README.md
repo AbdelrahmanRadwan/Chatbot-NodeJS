@@ -18,6 +18,8 @@ If you have problems, check this: https://nodejs.org/en/download/package-manager
 ```
 node app.js
 ```
+
+local host: http://localhost:8888/
 # TUTORIALS
 # Node.JS tutorial
 
