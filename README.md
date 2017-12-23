@@ -24,14 +24,14 @@ local host: http://localhost:8888/
 
 basics: https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_
 
+https://www.tutorialspoint.com/nodejs/
+
+https://www.w3schools.com/nodejs/
+
 # Chatbot with Node.JS tutorial
 
 basics: https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/
 
-https://www.tutorialspoint.com/nodejs/
-
-
-https://www.w3schools.com/nodejs/
 
 
 
