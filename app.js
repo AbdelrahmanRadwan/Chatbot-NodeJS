@@ -1,6 +1,6 @@
 
 
-/*function PlaceOrder(OrderNumber)
+function PlaceOrder(OrderNumber)
 {
 
 console.log('Order number %s is placed', OrderNumber);
@@ -14,7 +14,7 @@ function ProcessOrder(callback)
 	setTimeout(callback,5000);
 };
 
-/*function AddNUmbers(a, b)
+function AddNUmbers(a, b)
 {
 	return a + b;
 }
@@ -35,4 +35,4 @@ PlaceOrder(4)
 PlaceOrder(5)
 PlaceOrder(6)
 PlaceOrder(7)
-PlaceOrder(8)*/
+PlaceOrder(8)
