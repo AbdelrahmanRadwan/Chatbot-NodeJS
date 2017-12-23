@@ -28,6 +28,9 @@ basics: https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_
 basics: https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/
 
 
+https://www.quora.com/What-is-the-difference-between-JavaScript-and-Node-js 
+
+
 
 
 
