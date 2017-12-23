@@ -32,6 +32,7 @@ https://www.w3schools.com/nodejs/
 
 basics: https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/
 
+Advanced bot: https://github.com/kikinteractive/kik-node
 
 
 
